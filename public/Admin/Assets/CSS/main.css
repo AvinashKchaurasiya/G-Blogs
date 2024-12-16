@@ -1,0 +1,27 @@
+.custom-card-1,
+.custom-card-2,
+.custom-card-3,
+.custom-card-4 {
+    position: relative;
+    text-align: center;
+    background-color: #e7f1ff;
+    border-radius: 10px;
+    padding: 40px;
+    font-size: 1.2rem;
+}
+
+.client-image {
+    position: absolute;
+    top: -25px;
+    left: 1px;
+    max-width: 50px;
+    max-height: 100px;
+}
+
+.client-count {
+    z-index: 1; 
+}
+
+.page_title{
+    border-left: 5px solid #332D2D !important;
+}

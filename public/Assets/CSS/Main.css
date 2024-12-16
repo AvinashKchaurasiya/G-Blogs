@@ -1,0 +1,14 @@
+.pagination > li > a {
+    background-color: #5c5e5f !important;
+    padding: 0.5rem !important;
+    border-radius: 20px !important;
+    color: aliceblue !important;
+    margin-right: 0.2rem !important;
+}
+
+.pagination > .active > a{
+    background-color: #3b71ca !important;
+    padding: 0.5rem !important;
+    border-radius: 20px !important;
+    color: aliceblue !important;
+}
